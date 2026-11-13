@@ -1,4 +1,5 @@
-# Site vitrine — Élodie Martin
+# Site vitrine
+
 
 Site vitrine responsive pour une diététicienne-nutritionniste, réalisé en HTML, CSS et JavaScript sans dépendance de compilation.
 
