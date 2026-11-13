@@ -8,9 +8,13 @@ Site vitrine responsive pour une diététicienne-nutritionniste, réalisé en HT
 - Accompagnements
 - Déroulement des consultations et tarifs indicatifs
 - Présentation de la praticienne
-- Carnet de conseils
+- Carnet de conseils et espace local de rédaction (`admin.html`)
 - Coordonnées et formulaire de contact
 - Navigation mobile, palette violette douce, mise en page responsive
+
+## Rédiger un article
+
+Ouvrir `admin.html` dans un navigateur (ou accéder à `/admin.html` après publication) pour ajouter, modifier ou supprimer des brouillons. Le formulaire utilise le stockage local du navigateur : les données restent sur cet appareil et dans ce navigateur. Elles ne sont pas automatiquement visibles sur le site public, transférées entre appareils, ni sauvegardées sur GitHub. Exportez ou copiez vos textes avant de vider les données du navigateur. Pour une publication directe en ligne, il faudra ajouter un backend/CMS sécurisé ou publier les fichiers d’articles dans le dépôt.
 
 ## Personnalisation avant publication
 
